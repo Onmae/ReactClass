@@ -1,0 +1,7 @@
+.movie__container {
+  width: 300px;
+}
+
+.movie__container > * {
+  margin-top: 20px;
+}

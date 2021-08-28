@@ -1,0 +1,11 @@
+.list__container > div {
+  overflow-x: initial !important;
+}
+
+.react-swipeable-view-container {
+  width: 500px !important;
+}
+
+.react-swipeable-view-container > div {
+  width: 500px !important;
+}
